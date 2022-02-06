@@ -1,1 +1,1 @@
-# drip-dao-test
+# DripDAO: My first ever fully deployed DAO
