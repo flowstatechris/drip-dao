@@ -10,6 +10,8 @@ This project created a DAO through:
 
 There were definitely lots of struggles creating this, but the process of creating the fun little DAO expanded my knowledge about Javascript, Solidity, and smart contracts immensely.
 
+***_Notice:_*** This app is not on mainnet so please connect to Rinkeby!
+
 
 shoutout ***_buildspace*** for the frameworks <3
 
