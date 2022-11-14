@@ -1,5 +1,6 @@
 # DripDAO: My first ever fully deployed dApp
 
+*** _This Repo is outdated as the Rinkeby network has been depreciated_ ***
 
 ### This dApp lets people connect their wallet, get an NFT, see a DAO Dashboard where they can see other members + actually vote on proposals that are executed directly by a governance contract
 
